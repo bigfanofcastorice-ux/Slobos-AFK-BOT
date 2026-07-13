@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MoonKnight",
+    "username": "MrBeast",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm Marc Specter",
-        "I'm Steven Grant",
-        "I'm Jake Lockley"
+        "In this fcking video, I gonna built 100 casino in africa",
+        "Today, I will steal 10.000 fcking dolars from africa people",
+        "In this video, I'm going to poison all the fcking water sources in africa"
       ]
     },
     "chat-log": true,
